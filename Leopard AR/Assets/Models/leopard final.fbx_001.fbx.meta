@@ -1,0 +1,1977 @@
+fileFormatVersion: 2
+guid: 7cc4756193e12044ba9bc5e8e07c7e6e
+timeCreated: 1508416166
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: leopard:backAnkle_L
+    100004: leopard:backAnkle_R
+    100006: leopard:backHip_L
+    100008: leopard:backHip_R
+    100010: leopard:backKnee_L
+    100012: leopard:backKnee_R
+    100014: leopard:backRump_L
+    100016: leopard:backRump_R
+    100018: leopard:backToes_L
+    100020: leopard:backToes_R
+    100022: leopard:backToesEnd_L
+    100024: leopard:backToesEnd_R
+    100026: leopard:black_l
+    100028: leopard:black_r
+    100030: leopard:Body_M
+    100032: leopard:cheek1_L
+    100034: leopard:cheek1_R
+    100036: leopard:cheekUp1_L
+    100038: leopard:cheekUp1_R
+    100040: leopard:Chest_M
+    100042: leopard:claw1
+    100044: leopard:claw10
+    100046: leopard:claw11
+    100048: leopard:claw12
+    100050: leopard:claw13
+    100052: leopard:claw14
+    100054: leopard:claw15
+    100056: leopard:claw16
+    100058: leopard:claw17
+    100060: leopard:claw18
+    100062: leopard:claw19
+    100064: leopard:claw2
+    100066: leopard:claw20
+    100068: leopard:claw21
+    100070: leopard:claw22
+    100072: leopard:claw23
+    100074: leopard:claw24
+    100076: leopard:claw25
+    100078: leopard:claw26
+    100080: leopard:claw27
+    100082: leopard:claw28
+    100084: leopard:claw29
+    100086: leopard:claw3
+    100088: leopard:claw30
+    100090: leopard:claw31
+    100092: leopard:claw32
+    100094: leopard:claw33
+    100096: leopard:claw34
+    100098: leopard:claw35
+    100100: leopard:claw36
+    100102: leopard:claw4
+    100104: leopard:claw5
+    100106: leopard:claw6
+    100108: leopard:claw7
+    100110: leopard:claw8
+    100112: leopard:claw9
+    100114: leopard:Claws
+    100116: leopard:DeformationSystem
+    100118: leopard:Ear1_L
+    100120: leopard:Ear1_R
+    100122: leopard:Ear2_L
+    100124: leopard:Ear2_R
+    100126: leopard:Ear_L
+    100128: leopard:Ear_R
+    100130: leopard:earPart1_L
+    100132: leopard:earPart1_R
+    100134: leopard:earPart3_L
+    100136: leopard:earPart3_R
+    100138: leopard:earPart5_L
+    100140: leopard:earPart5_R
+    100142: leopard:earPart7_L
+    100144: leopard:earPart7_R
+    100146: leopard:earPart9_L
+    100148: leopard:earPart9_R
+    100150: leopard:Eye_L
+    100152: leopard:eye_l
+    100154: leopard:eye_l 1
+    100156: leopard:Eye_R
+    100158: leopard:eye_r
+    100160: leopard:eye_r 1
+    100162: leopard:eyeBrowCenter1_M
+    100164: leopard:eyeBrowIn1_L
+    100166: leopard:eyeBrowIn1_R
+    100168: leopard:eyeBrowMid1_L
+    100170: leopard:eyeBrowMid1_R
+    100172: leopard:eyeBrowOut1_L
+    100174: leopard:eyeBrowOut1_R
+    100176: leopard:EyeIris_L
+    100178: leopard:EyeIris_R
+    100180: leopard:eyelidLoIn1_L
+    100182: leopard:eyelidLoIn1_R
+    100184: leopard:eyelidLoMid1_L
+    100186: leopard:eyelidLoMid1_R
+    100188: leopard:eyelidLoOut1_L
+    100190: leopard:eyelidLoOut1_R
+    100192: leopard:eyelidLower_L
+    100194: leopard:eyelidLower_R
+    100196: leopard:eyelidUpIn1_L
+    100198: leopard:eyelidUpIn1_R
+    100200: leopard:eyelidUpMid1_L
+    100202: leopard:eyelidUpMid1_R
+    100204: leopard:eyelidUpOut1_L
+    100206: leopard:eyelidUpOut1_R
+    100208: leopard:eyelidUpper_L
+    100210: leopard:eyelidUpper_R
+    100212: leopard:forebrow_L
+    100214: leopard:forebrow_R
+    100216: leopard:frontAnkle_L
+    100218: leopard:frontAnkle_R
+    100220: leopard:frontHip_L
+    100222: leopard:frontHip_R
+    100224: leopard:frontKnee_L
+    100226: leopard:frontKnee_R
+    100228: leopard:frontRump_L
+    100230: leopard:frontRump_R
+    100232: leopard:frontToes_L
+    100234: leopard:frontToes_R
+    100236: leopard:frontToesEnd_L
+    100238: leopard:frontToesEnd_R
+    100240: leopard:Geometry
+    100242: leopard:Group
+    100244: leopard:Head_M
+    100246: leopard:Jaw1_M
+    100248: leopard:Jaw_M
+    100250: leopard:laughLineIn1_L
+    100252: leopard:laughLineIn1_R
+    100254: leopard:laughLineMid1_L
+    100256: leopard:laughLineMid1_R
+    100258: leopard:laughLineOut1_L
+    100260: leopard:laughLineOut1_R
+    100262: leopard:lipLowerIn3_L
+    100264: leopard:lipLowerIn3_R
+    100266: leopard:lipLowerMid1_L
+    100268: leopard:lipLowerMid1_R
+    100270: leopard:lipLowerOut1_L
+    100272: leopard:lipLowerOut1_R
+    100274: leopard:lipUpperCorner1_L
+    100276: leopard:lipUpperCorner1_R
+    100278: leopard:lipUpperIn3_L
+    100280: leopard:lipUpperIn3_R
+    100282: leopard:lipUpperMid1_L
+    100284: leopard:lipUpperMid1_R
+    100286: leopard:lipUpperOut1_L
+    100288: leopard:lipUpperOut1_R
+    100290: leopard:Main
+    100292: leopard:membrane_l
+    100294: leopard:membrane_r
+    100296: leopard:muzzle1_M
+    100298: leopard:muzzleTemp_M
+    100300: leopard:Neck1_M
+    100302: leopard:Neck_M
+    100304: leopard:neckFatLo1_M
+    100306: leopard:neckFatMid1_M
+    100308: leopard:nose1_M
+    100310: leopard:nostril1_L
+    100312: leopard:nostril1_R
+    100314: leopard:Pelvis_L
+    100316: leopard:Pelvis_R
+    100318: leopard:PelvisJnt1_L
+    100320: leopard:PelvisJnt1_R
+    100322: leopard:Root_M
+    100324: leopard:ScapularAim1_L
+    100326: leopard:ScapularAim1_R
+    100328: leopard:ScapularAim_L
+    100330: leopard:ScapularAim_R
+    100332: leopard:Spine1_M
+    100334: leopard:Spine2_M
+    100336: leopard:Spine3_M
+    100338: leopard:spineFat1_M
+    100340: leopard:Tail0_M
+    100342: leopard:Tail0Part1_M
+    100344: leopard:Tail0Part2_M
+    100346: leopard:Tail1_M
+    100348: leopard:Tail1Part1_M
+    100350: leopard:Tail1Part2_M
+    100352: leopard:Tail2_M
+    100354: leopard:Tail2Part1_M
+    100356: leopard:Tail2Part2_M
+    100358: leopard:Tail3_M
+    100360: leopard:Tail3Part1_M
+    100362: leopard:Tail3Part2_M
+    100364: leopard:Tail4_M
+    100366: leopard:Tail4Part1_M
+    100368: leopard:Tail4Part2_M
+    100370: leopard:Tail5_M
+    100372: leopard:Tail5Part1_M
+    100374: leopard:Tail5Part2_M
+    100376: leopard:teethLower
+    100378: leopard:teethUpper
+    100380: leopard:toeBackFirst1_L
+    100382: leopard:toeBackFirst1_R
+    100384: leopard:toeBackFirst2_L
+    100386: leopard:toeBackFirst2_R
+    100388: leopard:toeBackFirst3_L
+    100390: leopard:toeBackFirst3_R
+    100392: leopard:toeBackFirst4_L
+    100394: leopard:toeBackFirst4_R
+    100396: leopard:toeBackLast1_L
+    100398: leopard:toeBackLast1_R
+    100400: leopard:toeBackLast2_L
+    100402: leopard:toeBackLast2_R
+    100404: leopard:toeBackLast3_L
+    100406: leopard:toeBackLast3_R
+    100408: leopard:toeBackLast4_L
+    100410: leopard:toeBackLast4_R
+    100412: leopard:toeBackMid1_L
+    100414: leopard:toeBackMid1_R
+    100416: leopard:toeBackMid2_L
+    100418: leopard:toeBackMid2_R
+    100420: leopard:toeBackMid3_L
+    100422: leopard:toeBackMid3_R
+    100424: leopard:toeBackMid4_L
+    100426: leopard:toeBackMid4_R
+    100428: leopard:toeBackRing1_L
+    100430: leopard:toeBackRing1_R
+    100432: leopard:toeBackRing2_L
+    100434: leopard:toeBackRing2_R
+    100436: leopard:toeBackRing3_L
+    100438: leopard:toeBackRing3_R
+    100440: leopard:toeBackRing4_L
+    100442: leopard:toeBackRing4_R
+    100444: leopard:toeFrontFirst2_L
+    100446: leopard:toeFrontFirst2_R
+    100448: leopard:toeFrontFirst3_L
+    100450: leopard:toeFrontFirst3_R
+    100452: leopard:toeFrontFirst4_L
+    100454: leopard:toeFrontFirst4_R
+    100456: leopard:toeFrontFirst5_L
+    100458: leopard:toeFrontFirst5_R
+    100460: leopard:toeFrontHigh1_L
+    100462: leopard:toeFrontHigh1_R
+    100464: leopard:toeFrontHigh2_L
+    100466: leopard:toeFrontHigh2_R
+    100468: leopard:toeFrontHigh_L
+    100470: leopard:toeFrontHigh_R
+    100472: leopard:toeFrontLast1_L
+    100474: leopard:toeFrontLast1_R
+    100476: leopard:toeFrontLast2_L
+    100478: leopard:toeFrontLast2_R
+    100480: leopard:toeFrontLast3_L
+    100482: leopard:toeFrontLast3_R
+    100484: leopard:toeFrontLast5_L
+    100486: leopard:toeFrontLast5_R
+    100488: leopard:toeFrontMid2_L
+    100490: leopard:toeFrontMid2_R
+    100492: leopard:toeFrontMid3_L
+    100494: leopard:toeFrontMid3_R
+    100496: leopard:toeFrontMid4_L
+    100498: leopard:toeFrontMid4_R
+    100500: leopard:toeFrontMid5_L
+    100502: leopard:toeFrontMid5_R
+    100504: leopard:toeFrontRing2_L
+    100506: leopard:toeFrontRing2_R
+    100508: leopard:toeFrontRing3_L
+    100510: leopard:toeFrontRing3_R
+    100512: leopard:toeFrontRing4_L
+    100514: leopard:toeFrontRing4_R
+    100516: leopard:toeFrontRing5_L
+    100518: leopard:toeFrontRing5_R
+    100520: leopard:tongue10_L
+    100522: leopard:tongue10_R
+    100524: leopard:tongue11_L
+    100526: leopard:tongue11_R
+    100528: leopard:tongue12_L
+    100530: leopard:tongue12_R
+    100532: leopard:tongue13_L
+    100534: leopard:tongue13_R
+    100536: leopard:tongue14_L
+    100538: leopard:tongue14_R
+    100540: leopard:tongue15_L
+    100542: leopard:tongue15_R
+    100544: leopard:tongue16_L
+    100546: leopard:tongue16_R
+    100548: leopard:tongue17_L
+    100550: leopard:tongue17_R
+    100552: leopard:tongue1_M
+    100554: leopard:tongue2_M
+    100556: leopard:tongue3_M
+    100558: leopard:tongue4_M
+    100560: leopard:tongue5_M
+    100562: leopard:tongue6_M
+    100564: leopard:tongue7_M
+    100566: leopard:tongue8_L
+    100568: leopard:tongue8_R
+    100570: leopard:tongue9_L
+    100572: leopard:tongue9_R
+    100574: leopard:Tongue_M
+    100576: leopard:whisker132_L
+    100578: leopard:whisker132_R
+    100580: pPlane1
+    400000: //RootNode
+    400002: leopard:backAnkle_L
+    400004: leopard:backAnkle_R
+    400006: leopard:backHip_L
+    400008: leopard:backHip_R
+    400010: leopard:backKnee_L
+    400012: leopard:backKnee_R
+    400014: leopard:backRump_L
+    400016: leopard:backRump_R
+    400018: leopard:backToes_L
+    400020: leopard:backToes_R
+    400022: leopard:backToesEnd_L
+    400024: leopard:backToesEnd_R
+    400026: leopard:black_l
+    400028: leopard:black_r
+    400030: leopard:Body_M
+    400032: leopard:cheek1_L
+    400034: leopard:cheek1_R
+    400036: leopard:cheekUp1_L
+    400038: leopard:cheekUp1_R
+    400040: leopard:Chest_M
+    400042: leopard:claw1
+    400044: leopard:claw10
+    400046: leopard:claw11
+    400048: leopard:claw12
+    400050: leopard:claw13
+    400052: leopard:claw14
+    400054: leopard:claw15
+    400056: leopard:claw16
+    400058: leopard:claw17
+    400060: leopard:claw18
+    400062: leopard:claw19
+    400064: leopard:claw2
+    400066: leopard:claw20
+    400068: leopard:claw21
+    400070: leopard:claw22
+    400072: leopard:claw23
+    400074: leopard:claw24
+    400076: leopard:claw25
+    400078: leopard:claw26
+    400080: leopard:claw27
+    400082: leopard:claw28
+    400084: leopard:claw29
+    400086: leopard:claw3
+    400088: leopard:claw30
+    400090: leopard:claw31
+    400092: leopard:claw32
+    400094: leopard:claw33
+    400096: leopard:claw34
+    400098: leopard:claw35
+    400100: leopard:claw36
+    400102: leopard:claw4
+    400104: leopard:claw5
+    400106: leopard:claw6
+    400108: leopard:claw7
+    400110: leopard:claw8
+    400112: leopard:claw9
+    400114: leopard:Claws
+    400116: leopard:DeformationSystem
+    400118: leopard:Ear1_L
+    400120: leopard:Ear1_R
+    400122: leopard:Ear2_L
+    400124: leopard:Ear2_R
+    400126: leopard:Ear_L
+    400128: leopard:Ear_R
+    400130: leopard:earPart1_L
+    400132: leopard:earPart1_R
+    400134: leopard:earPart3_L
+    400136: leopard:earPart3_R
+    400138: leopard:earPart5_L
+    400140: leopard:earPart5_R
+    400142: leopard:earPart7_L
+    400144: leopard:earPart7_R
+    400146: leopard:earPart9_L
+    400148: leopard:earPart9_R
+    400150: leopard:Eye_L
+    400152: leopard:eye_l
+    400154: leopard:eye_l 1
+    400156: leopard:Eye_R
+    400158: leopard:eye_r
+    400160: leopard:eye_r 1
+    400162: leopard:eyeBrowCenter1_M
+    400164: leopard:eyeBrowIn1_L
+    400166: leopard:eyeBrowIn1_R
+    400168: leopard:eyeBrowMid1_L
+    400170: leopard:eyeBrowMid1_R
+    400172: leopard:eyeBrowOut1_L
+    400174: leopard:eyeBrowOut1_R
+    400176: leopard:EyeIris_L
+    400178: leopard:EyeIris_R
+    400180: leopard:eyelidLoIn1_L
+    400182: leopard:eyelidLoIn1_R
+    400184: leopard:eyelidLoMid1_L
+    400186: leopard:eyelidLoMid1_R
+    400188: leopard:eyelidLoOut1_L
+    400190: leopard:eyelidLoOut1_R
+    400192: leopard:eyelidLower_L
+    400194: leopard:eyelidLower_R
+    400196: leopard:eyelidUpIn1_L
+    400198: leopard:eyelidUpIn1_R
+    400200: leopard:eyelidUpMid1_L
+    400202: leopard:eyelidUpMid1_R
+    400204: leopard:eyelidUpOut1_L
+    400206: leopard:eyelidUpOut1_R
+    400208: leopard:eyelidUpper_L
+    400210: leopard:eyelidUpper_R
+    400212: leopard:forebrow_L
+    400214: leopard:forebrow_R
+    400216: leopard:frontAnkle_L
+    400218: leopard:frontAnkle_R
+    400220: leopard:frontHip_L
+    400222: leopard:frontHip_R
+    400224: leopard:frontKnee_L
+    400226: leopard:frontKnee_R
+    400228: leopard:frontRump_L
+    400230: leopard:frontRump_R
+    400232: leopard:frontToes_L
+    400234: leopard:frontToes_R
+    400236: leopard:frontToesEnd_L
+    400238: leopard:frontToesEnd_R
+    400240: leopard:Geometry
+    400242: leopard:Group
+    400244: leopard:Head_M
+    400246: leopard:Jaw1_M
+    400248: leopard:Jaw_M
+    400250: leopard:laughLineIn1_L
+    400252: leopard:laughLineIn1_R
+    400254: leopard:laughLineMid1_L
+    400256: leopard:laughLineMid1_R
+    400258: leopard:laughLineOut1_L
+    400260: leopard:laughLineOut1_R
+    400262: leopard:lipLowerIn3_L
+    400264: leopard:lipLowerIn3_R
+    400266: leopard:lipLowerMid1_L
+    400268: leopard:lipLowerMid1_R
+    400270: leopard:lipLowerOut1_L
+    400272: leopard:lipLowerOut1_R
+    400274: leopard:lipUpperCorner1_L
+    400276: leopard:lipUpperCorner1_R
+    400278: leopard:lipUpperIn3_L
+    400280: leopard:lipUpperIn3_R
+    400282: leopard:lipUpperMid1_L
+    400284: leopard:lipUpperMid1_R
+    400286: leopard:lipUpperOut1_L
+    400288: leopard:lipUpperOut1_R
+    400290: leopard:Main
+    400292: leopard:membrane_l
+    400294: leopard:membrane_r
+    400296: leopard:muzzle1_M
+    400298: leopard:muzzleTemp_M
+    400300: leopard:Neck1_M
+    400302: leopard:Neck_M
+    400304: leopard:neckFatLo1_M
+    400306: leopard:neckFatMid1_M
+    400308: leopard:nose1_M
+    400310: leopard:nostril1_L
+    400312: leopard:nostril1_R
+    400314: leopard:Pelvis_L
+    400316: leopard:Pelvis_R
+    400318: leopard:PelvisJnt1_L
+    400320: leopard:PelvisJnt1_R
+    400322: leopard:Root_M
+    400324: leopard:ScapularAim1_L
+    400326: leopard:ScapularAim1_R
+    400328: leopard:ScapularAim_L
+    400330: leopard:ScapularAim_R
+    400332: leopard:Spine1_M
+    400334: leopard:Spine2_M
+    400336: leopard:Spine3_M
+    400338: leopard:spineFat1_M
+    400340: leopard:Tail0_M
+    400342: leopard:Tail0Part1_M
+    400344: leopard:Tail0Part2_M
+    400346: leopard:Tail1_M
+    400348: leopard:Tail1Part1_M
+    400350: leopard:Tail1Part2_M
+    400352: leopard:Tail2_M
+    400354: leopard:Tail2Part1_M
+    400356: leopard:Tail2Part2_M
+    400358: leopard:Tail3_M
+    400360: leopard:Tail3Part1_M
+    400362: leopard:Tail3Part2_M
+    400364: leopard:Tail4_M
+    400366: leopard:Tail4Part1_M
+    400368: leopard:Tail4Part2_M
+    400370: leopard:Tail5_M
+    400372: leopard:Tail5Part1_M
+    400374: leopard:Tail5Part2_M
+    400376: leopard:teethLower
+    400378: leopard:teethUpper
+    400380: leopard:toeBackFirst1_L
+    400382: leopard:toeBackFirst1_R
+    400384: leopard:toeBackFirst2_L
+    400386: leopard:toeBackFirst2_R
+    400388: leopard:toeBackFirst3_L
+    400390: leopard:toeBackFirst3_R
+    400392: leopard:toeBackFirst4_L
+    400394: leopard:toeBackFirst4_R
+    400396: leopard:toeBackLast1_L
+    400398: leopard:toeBackLast1_R
+    400400: leopard:toeBackLast2_L
+    400402: leopard:toeBackLast2_R
+    400404: leopard:toeBackLast3_L
+    400406: leopard:toeBackLast3_R
+    400408: leopard:toeBackLast4_L
+    400410: leopard:toeBackLast4_R
+    400412: leopard:toeBackMid1_L
+    400414: leopard:toeBackMid1_R
+    400416: leopard:toeBackMid2_L
+    400418: leopard:toeBackMid2_R
+    400420: leopard:toeBackMid3_L
+    400422: leopard:toeBackMid3_R
+    400424: leopard:toeBackMid4_L
+    400426: leopard:toeBackMid4_R
+    400428: leopard:toeBackRing1_L
+    400430: leopard:toeBackRing1_R
+    400432: leopard:toeBackRing2_L
+    400434: leopard:toeBackRing2_R
+    400436: leopard:toeBackRing3_L
+    400438: leopard:toeBackRing3_R
+    400440: leopard:toeBackRing4_L
+    400442: leopard:toeBackRing4_R
+    400444: leopard:toeFrontFirst2_L
+    400446: leopard:toeFrontFirst2_R
+    400448: leopard:toeFrontFirst3_L
+    400450: leopard:toeFrontFirst3_R
+    400452: leopard:toeFrontFirst4_L
+    400454: leopard:toeFrontFirst4_R
+    400456: leopard:toeFrontFirst5_L
+    400458: leopard:toeFrontFirst5_R
+    400460: leopard:toeFrontHigh1_L
+    400462: leopard:toeFrontHigh1_R
+    400464: leopard:toeFrontHigh2_L
+    400466: leopard:toeFrontHigh2_R
+    400468: leopard:toeFrontHigh_L
+    400470: leopard:toeFrontHigh_R
+    400472: leopard:toeFrontLast1_L
+    400474: leopard:toeFrontLast1_R
+    400476: leopard:toeFrontLast2_L
+    400478: leopard:toeFrontLast2_R
+    400480: leopard:toeFrontLast3_L
+    400482: leopard:toeFrontLast3_R
+    400484: leopard:toeFrontLast5_L
+    400486: leopard:toeFrontLast5_R
+    400488: leopard:toeFrontMid2_L
+    400490: leopard:toeFrontMid2_R
+    400492: leopard:toeFrontMid3_L
+    400494: leopard:toeFrontMid3_R
+    400496: leopard:toeFrontMid4_L
+    400498: leopard:toeFrontMid4_R
+    400500: leopard:toeFrontMid5_L
+    400502: leopard:toeFrontMid5_R
+    400504: leopard:toeFrontRing2_L
+    400506: leopard:toeFrontRing2_R
+    400508: leopard:toeFrontRing3_L
+    400510: leopard:toeFrontRing3_R
+    400512: leopard:toeFrontRing4_L
+    400514: leopard:toeFrontRing4_R
+    400516: leopard:toeFrontRing5_L
+    400518: leopard:toeFrontRing5_R
+    400520: leopard:tongue10_L
+    400522: leopard:tongue10_R
+    400524: leopard:tongue11_L
+    400526: leopard:tongue11_R
+    400528: leopard:tongue12_L
+    400530: leopard:tongue12_R
+    400532: leopard:tongue13_L
+    400534: leopard:tongue13_R
+    400536: leopard:tongue14_L
+    400538: leopard:tongue14_R
+    400540: leopard:tongue15_L
+    400542: leopard:tongue15_R
+    400544: leopard:tongue16_L
+    400546: leopard:tongue16_R
+    400548: leopard:tongue17_L
+    400550: leopard:tongue17_R
+    400552: leopard:tongue1_M
+    400554: leopard:tongue2_M
+    400556: leopard:tongue3_M
+    400558: leopard:tongue4_M
+    400560: leopard:tongue5_M
+    400562: leopard:tongue6_M
+    400564: leopard:tongue7_M
+    400566: leopard:tongue8_L
+    400568: leopard:tongue8_R
+    400570: leopard:tongue9_L
+    400572: leopard:tongue9_R
+    400574: leopard:Tongue_M
+    400576: leopard:whisker132_L
+    400578: leopard:whisker132_R
+    400580: pPlane1
+    2300000: pPlane1
+    3300000: pPlane1
+    4300000: leopard:claw1
+    4300002: leopard:claw2
+    4300004: leopard:claw3
+    4300006: leopard:claw4
+    4300008: leopard:claw5
+    4300010: leopard:claw6
+    4300012: leopard:claw7
+    4300014: leopard:claw8
+    4300016: leopard:claw9
+    4300018: leopard:claw10
+    4300020: leopard:claw11
+    4300022: leopard:claw12
+    4300024: leopard:claw13
+    4300026: leopard:claw14
+    4300028: leopard:claw15
+    4300030: leopard:claw16
+    4300032: leopard:claw17
+    4300034: leopard:claw18
+    4300036: leopard:claw19
+    4300038: leopard:claw20
+    4300040: leopard:claw21
+    4300042: leopard:claw22
+    4300044: leopard:claw23
+    4300046: leopard:claw24
+    4300048: leopard:claw25
+    4300050: leopard:claw26
+    4300052: leopard:claw27
+    4300054: leopard:claw28
+    4300056: leopard:claw29
+    4300058: leopard:claw30
+    4300060: leopard:claw31
+    4300062: leopard:claw32
+    4300064: leopard:claw33
+    4300066: leopard:claw34
+    4300068: leopard:claw35
+    4300070: leopard:claw36
+    4300072: leopard:black_l
+    4300074: leopard:eye_l
+    4300076: leopard:membrane_l
+    4300078: leopard:black_r
+    4300080: leopard:eye_r
+    4300082: leopard:membrane_r
+    4300084: leopard:teethLower
+    4300086: leopard:teethUpper
+    4300088: leopard:Body_M
+    4300090: leopard:Tongue_M
+    4300092: pPlane1
+    7400000: Entry
+    7400002: Idle
+    9500000: //RootNode
+    13700000: leopard:black_l
+    13700002: leopard:black_r
+    13700004: leopard:Body_M
+    13700006: leopard:claw1
+    13700008: leopard:claw10
+    13700010: leopard:claw11
+    13700012: leopard:claw12
+    13700014: leopard:claw13
+    13700016: leopard:claw14
+    13700018: leopard:claw15
+    13700020: leopard:claw16
+    13700022: leopard:claw17
+    13700024: leopard:claw18
+    13700026: leopard:claw19
+    13700028: leopard:claw2
+    13700030: leopard:claw20
+    13700032: leopard:claw21
+    13700034: leopard:claw22
+    13700036: leopard:claw23
+    13700038: leopard:claw24
+    13700040: leopard:claw25
+    13700042: leopard:claw26
+    13700044: leopard:claw27
+    13700046: leopard:claw28
+    13700048: leopard:claw29
+    13700050: leopard:claw3
+    13700052: leopard:claw30
+    13700054: leopard:claw31
+    13700056: leopard:claw32
+    13700058: leopard:claw33
+    13700060: leopard:claw34
+    13700062: leopard:claw35
+    13700064: leopard:claw36
+    13700066: leopard:claw4
+    13700068: leopard:claw5
+    13700070: leopard:claw6
+    13700072: leopard:claw7
+    13700074: leopard:claw8
+    13700076: leopard:claw9
+    13700078: leopard:eye_l 1
+    13700080: leopard:eye_r 1
+    13700082: leopard:membrane_l
+    13700084: leopard:membrane_r
+    13700086: leopard:teethLower
+    13700088: leopard:teethUpper
+    13700090: leopard:Tongue_M
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Entry
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 204
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: leopard:Geometry
+        weight: 1
+      - path: leopard:Geometry/leopard:Body_M
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw1
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw2
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw3
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw4
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw5
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw6
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw7
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw8
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw9
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw10
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw11
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw12
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw13
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw14
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw15
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw16
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw17
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw18
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw19
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw20
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw21
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw22
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw23
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw24
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw25
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw26
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw27
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw28
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw29
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw30
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw31
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw32
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw33
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw34
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw35
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw36
+        weight: 1
+      - path: leopard:Geometry/leopard:eye_l
+        weight: 1
+      - path: leopard:Geometry/leopard:eye_l/leopard:black_l
+        weight: 1
+      - path: leopard:Geometry/leopard:eye_l/leopard:eye_l 1
+        weight: 1
+      - path: leopard:Geometry/leopard:eye_l/leopard:membrane_l
+        weight: 1
+      - path: leopard:Geometry/leopard:eye_r
+        weight: 1
+      - path: leopard:Geometry/leopard:eye_r/leopard:black_r
+        weight: 1
+      - path: leopard:Geometry/leopard:eye_r/leopard:eye_r 1
+        weight: 1
+      - path: leopard:Geometry/leopard:eye_r/leopard:membrane_r
+        weight: 1
+      - path: leopard:Geometry/leopard:teethLower
+        weight: 1
+      - path: leopard:Geometry/leopard:teethUpper
+        weight: 1
+      - path: leopard:Geometry/leopard:Tongue_M
+        weight: 1
+      - path: leopard:Group
+        weight: 1
+      - path: leopard:Group/leopard:Main
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackFirst1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackFirst1_L/leopard:toeBackFirst2_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackFirst1_L/leopard:toeBackFirst2_L/leopard:toeBackFirst3_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackFirst1_L/leopard:toeBackFirst2_L/leopard:toeBackFirst3_L/leopard:toeBackFirst4_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackLast1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackLast1_L/leopard:toeBackLast2_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackLast1_L/leopard:toeBackLast2_L/leopard:toeBackLast3_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackLast1_L/leopard:toeBackLast2_L/leopard:toeBackLast3_L/leopard:toeBackLast4_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackMid1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackMid1_L/leopard:toeBackMid2_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackMid1_L/leopard:toeBackMid2_L/leopard:toeBackMid3_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackMid1_L/leopard:toeBackMid2_L/leopard:toeBackMid3_L/leopard:toeBackMid4_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackRing1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackRing1_L/leopard:toeBackRing2_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackRing1_L/leopard:toeBackRing2_L/leopard:toeBackRing3_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackRing1_L/leopard:toeBackRing2_L/leopard:toeBackRing3_L/leopard:toeBackRing4_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:PelvisJnt1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackFirst1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackFirst1_R/leopard:toeBackFirst2_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackFirst1_R/leopard:toeBackFirst2_R/leopard:toeBackFirst3_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackFirst1_R/leopard:toeBackFirst2_R/leopard:toeBackFirst3_R/leopard:toeBackFirst4_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackLast1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackLast1_R/leopard:toeBackLast2_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackLast1_R/leopard:toeBackLast2_R/leopard:toeBackLast3_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackLast1_R/leopard:toeBackLast2_R/leopard:toeBackLast3_R/leopard:toeBackLast4_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackMid1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackMid1_R/leopard:toeBackMid2_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackMid1_R/leopard:toeBackMid2_R/leopard:toeBackMid3_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackMid1_R/leopard:toeBackMid2_R/leopard:toeBackMid3_R/leopard:toeBackMid4_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackRing1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackRing1_R/leopard:toeBackRing2_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackRing1_R/leopard:toeBackRing2_R/leopard:toeBackRing3_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackRing1_R/leopard:toeBackRing2_R/leopard:toeBackRing3_R/leopard:toeBackRing4_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:PelvisJnt1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:cheek1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:cheek1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:cheekUp1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:cheekUp1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_L/leopard:Ear1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_L/leopard:Ear1_L/leopard:Ear2_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_L/leopard:Ear1_L/leopard:Ear2_L/leopard:earPart1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_L/leopard:Ear1_L/leopard:Ear2_L/leopard:earPart3_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_L/leopard:Ear1_L/leopard:Ear2_L/leopard:earPart9_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_L/leopard:Ear1_L/leopard:earPart5_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_L/leopard:Ear1_L/leopard:earPart7_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_R/leopard:Ear1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_R/leopard:Ear1_R/leopard:Ear2_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_R/leopard:Ear1_R/leopard:Ear2_R/leopard:earPart1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_R/leopard:Ear1_R/leopard:Ear2_R/leopard:earPart3_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_R/leopard:Ear1_R/leopard:Ear2_R/leopard:earPart9_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_R/leopard:Ear1_R/leopard:earPart5_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_R/leopard:Ear1_R/leopard:earPart7_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Eye_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Eye_L/leopard:EyeIris_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Eye_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Eye_R/leopard:EyeIris_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyeBrowCenter1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyeBrowIn1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyeBrowIn1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyeBrowMid1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyeBrowMid1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyeBrowOut1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyeBrowOut1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidLower_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidLower_L/leopard:eyelidLoIn1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidLower_L/leopard:eyelidLoMid1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidLower_L/leopard:eyelidLoOut1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidLower_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidLower_R/leopard:eyelidLoIn1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidLower_R/leopard:eyelidLoMid1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidLower_R/leopard:eyelidLoOut1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidUpper_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidUpper_L/leopard:eyelidUpIn1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidUpper_L/leopard:eyelidUpMid1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidUpper_L/leopard:eyelidUpOut1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidUpper_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidUpper_R/leopard:eyelidUpIn1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidUpper_R/leopard:eyelidUpMid1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidUpper_R/leopard:eyelidUpOut1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:forebrow_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:forebrow_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:Jaw1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:Jaw1_M/leopard:lipLowerIn3_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:Jaw1_M/leopard:lipLowerIn3_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:Jaw1_M/leopard:lipLowerMid1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:Jaw1_M/leopard:lipLowerMid1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:Jaw1_M/leopard:lipLowerOut1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:Jaw1_M/leopard:lipLowerOut1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue4_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue4_M/leopard:tongue5_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue4_M/leopard:tongue5_M/leopard:tongue6_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue4_M/leopard:tongue5_M/leopard:tongue6_M/leopard:tongue7_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue4_M/leopard:tongue5_M/leopard:tongue8_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue4_M/leopard:tongue5_M/leopard:tongue8_L/leopard:tongue9_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue4_M/leopard:tongue5_M/leopard:tongue8_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue4_M/leopard:tongue5_M/leopard:tongue8_R/leopard:tongue9_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue4_M/leopard:tongue10_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue4_M/leopard:tongue10_L/leopard:tongue11_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue4_M/leopard:tongue10_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue4_M/leopard:tongue10_R/leopard:tongue11_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue12_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue12_L/leopard:tongue13_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue12_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue12_R/leopard:tongue13_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue14_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue14_L/leopard:tongue15_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue14_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue14_R/leopard:tongue15_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue16_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue16_L/leopard:tongue17_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue16_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue16_R/leopard:tongue17_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:laughLineMid1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:laughLineMid1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:laughLineOut1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:laughLineOut1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M/leopard:laughLineIn1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M/leopard:laughLineIn1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M/leopard:lipUpperCorner1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M/leopard:lipUpperCorner1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M/leopard:lipUpperIn3_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M/leopard:lipUpperIn3_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M/leopard:lipUpperMid1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M/leopard:lipUpperMid1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M/leopard:lipUpperOut1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M/leopard:lipUpperOut1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M/leopard:whisker132_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M/leopard:whisker132_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:nose1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:nose1_M/leopard:nostril1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:nose1_M/leopard:nostril1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:neckFatMid1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:neckFatLo1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontFirst5_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontFirst5_L/leopard:toeFrontFirst4_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontFirst5_L/leopard:toeFrontFirst4_L/leopard:toeFrontFirst3_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontFirst5_L/leopard:toeFrontFirst4_L/leopard:toeFrontFirst3_L/leopard:toeFrontFirst2_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontLast5_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontLast5_L/leopard:toeFrontLast1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontLast5_L/leopard:toeFrontLast1_L/leopard:toeFrontLast2_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontLast5_L/leopard:toeFrontLast1_L/leopard:toeFrontLast2_L/leopard:toeFrontLast3_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontMid5_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontMid5_L/leopard:toeFrontMid4_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontMid5_L/leopard:toeFrontMid4_L/leopard:toeFrontMid3_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontMid5_L/leopard:toeFrontMid4_L/leopard:toeFrontMid3_L/leopard:toeFrontMid2_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontRing5_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontRing5_L/leopard:toeFrontRing4_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontRing5_L/leopard:toeFrontRing4_L/leopard:toeFrontRing3_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontRing5_L/leopard:toeFrontRing4_L/leopard:toeFrontRing3_L/leopard:toeFrontRing2_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:toeFrontHigh_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:toeFrontHigh_L/leopard:toeFrontHigh1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:toeFrontHigh_L/leopard:toeFrontHigh1_L/leopard:toeFrontHigh2_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:ScapularAim1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontFirst5_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontFirst5_R/leopard:toeFrontFirst4_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontFirst5_R/leopard:toeFrontFirst4_R/leopard:toeFrontFirst3_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontFirst5_R/leopard:toeFrontFirst4_R/leopard:toeFrontFirst3_R/leopard:toeFrontFirst2_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontLast5_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontLast5_R/leopard:toeFrontLast1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontLast5_R/leopard:toeFrontLast1_R/leopard:toeFrontLast2_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontLast5_R/leopard:toeFrontLast1_R/leopard:toeFrontLast2_R/leopard:toeFrontLast3_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontMid5_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontMid5_R/leopard:toeFrontMid4_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontMid5_R/leopard:toeFrontMid4_R/leopard:toeFrontMid3_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontMid5_R/leopard:toeFrontMid4_R/leopard:toeFrontMid3_R/leopard:toeFrontMid2_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontRing5_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontRing5_R/leopard:toeFrontRing4_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontRing5_R/leopard:toeFrontRing4_R/leopard:toeFrontRing3_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontRing5_R/leopard:toeFrontRing4_R/leopard:toeFrontRing3_R/leopard:toeFrontRing2_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:toeFrontHigh_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:toeFrontHigh_R/leopard:toeFrontHigh1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:toeFrontHigh_R/leopard:toeFrontHigh1_R/leopard:toeFrontHigh2_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:ScapularAim1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:spineFat1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M/leopard:Tail2_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M/leopard:Tail2_M/leopard:Tail2Part1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M/leopard:Tail2_M/leopard:Tail2Part1_M/leopard:Tail2Part2_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M/leopard:Tail2_M/leopard:Tail2Part1_M/leopard:Tail2Part2_M/leopard:Tail3_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M/leopard:Tail2_M/leopard:Tail2Part1_M/leopard:Tail2Part2_M/leopard:Tail3_M/leopard:Tail3Part1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M/leopard:Tail2_M/leopard:Tail2Part1_M/leopard:Tail2Part2_M/leopard:Tail3_M/leopard:Tail3Part1_M/leopard:Tail3Part2_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M/leopard:Tail2_M/leopard:Tail2Part1_M/leopard:Tail2Part2_M/leopard:Tail3_M/leopard:Tail3Part1_M/leopard:Tail3Part2_M/leopard:Tail4_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M/leopard:Tail2_M/leopard:Tail2Part1_M/leopard:Tail2Part2_M/leopard:Tail3_M/leopard:Tail3Part1_M/leopard:Tail3Part2_M/leopard:Tail4_M/leopard:Tail4Part1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M/leopard:Tail2_M/leopard:Tail2Part1_M/leopard:Tail2Part2_M/leopard:Tail3_M/leopard:Tail3Part1_M/leopard:Tail3Part2_M/leopard:Tail4_M/leopard:Tail4Part1_M/leopard:Tail4Part2_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M/leopard:Tail2_M/leopard:Tail2Part1_M/leopard:Tail2Part2_M/leopard:Tail3_M/leopard:Tail3Part1_M/leopard:Tail3Part2_M/leopard:Tail4_M/leopard:Tail4Part1_M/leopard:Tail4Part2_M/leopard:Tail5_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M/leopard:Tail2_M/leopard:Tail2Part1_M/leopard:Tail2Part2_M/leopard:Tail3_M/leopard:Tail3Part1_M/leopard:Tail3Part2_M/leopard:Tail4_M/leopard:Tail4Part1_M/leopard:Tail4Part2_M/leopard:Tail5_M/leopard:Tail5Part1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M/leopard:Tail2_M/leopard:Tail2Part1_M/leopard:Tail2Part2_M/leopard:Tail3_M/leopard:Tail3Part1_M/leopard:Tail3Part2_M/leopard:Tail4_M/leopard:Tail4Part1_M/leopard:Tail4Part2_M/leopard:Tail5_M/leopard:Tail5Part1_M/leopard:Tail5Part2_M
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 205
+      lastFrame: 400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: leopard:Geometry
+        weight: 1
+      - path: leopard:Geometry/leopard:Body_M
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw1
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw2
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw3
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw4
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw5
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw6
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw7
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw8
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw9
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw10
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw11
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw12
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw13
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw14
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw15
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw16
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw17
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw18
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw19
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw20
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw21
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw22
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw23
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw24
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw25
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw26
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw27
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw28
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw29
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw30
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw31
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw32
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw33
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw34
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw35
+        weight: 1
+      - path: leopard:Geometry/leopard:Claws/leopard:claw36
+        weight: 1
+      - path: leopard:Geometry/leopard:eye_l
+        weight: 1
+      - path: leopard:Geometry/leopard:eye_l/leopard:black_l
+        weight: 1
+      - path: leopard:Geometry/leopard:eye_l/leopard:eye_l 1
+        weight: 1
+      - path: leopard:Geometry/leopard:eye_l/leopard:membrane_l
+        weight: 1
+      - path: leopard:Geometry/leopard:eye_r
+        weight: 1
+      - path: leopard:Geometry/leopard:eye_r/leopard:black_r
+        weight: 1
+      - path: leopard:Geometry/leopard:eye_r/leopard:eye_r 1
+        weight: 1
+      - path: leopard:Geometry/leopard:eye_r/leopard:membrane_r
+        weight: 1
+      - path: leopard:Geometry/leopard:teethLower
+        weight: 1
+      - path: leopard:Geometry/leopard:teethUpper
+        weight: 1
+      - path: leopard:Geometry/leopard:Tongue_M
+        weight: 1
+      - path: leopard:Group
+        weight: 1
+      - path: leopard:Group/leopard:Main
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackFirst1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackFirst1_L/leopard:toeBackFirst2_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackFirst1_L/leopard:toeBackFirst2_L/leopard:toeBackFirst3_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackFirst1_L/leopard:toeBackFirst2_L/leopard:toeBackFirst3_L/leopard:toeBackFirst4_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackLast1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackLast1_L/leopard:toeBackLast2_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackLast1_L/leopard:toeBackLast2_L/leopard:toeBackLast3_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackLast1_L/leopard:toeBackLast2_L/leopard:toeBackLast3_L/leopard:toeBackLast4_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackMid1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackMid1_L/leopard:toeBackMid2_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackMid1_L/leopard:toeBackMid2_L/leopard:toeBackMid3_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackMid1_L/leopard:toeBackMid2_L/leopard:toeBackMid3_L/leopard:toeBackMid4_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackRing1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackRing1_L/leopard:toeBackRing2_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackRing1_L/leopard:toeBackRing2_L/leopard:toeBackRing3_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:backRump_L/leopard:backHip_L/leopard:backKnee_L/leopard:backAnkle_L/leopard:backToes_L/leopard:backToesEnd_L/leopard:toeBackRing1_L/leopard:toeBackRing2_L/leopard:toeBackRing3_L/leopard:toeBackRing4_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_L/leopard:PelvisJnt1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackFirst1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackFirst1_R/leopard:toeBackFirst2_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackFirst1_R/leopard:toeBackFirst2_R/leopard:toeBackFirst3_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackFirst1_R/leopard:toeBackFirst2_R/leopard:toeBackFirst3_R/leopard:toeBackFirst4_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackLast1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackLast1_R/leopard:toeBackLast2_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackLast1_R/leopard:toeBackLast2_R/leopard:toeBackLast3_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackLast1_R/leopard:toeBackLast2_R/leopard:toeBackLast3_R/leopard:toeBackLast4_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackMid1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackMid1_R/leopard:toeBackMid2_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackMid1_R/leopard:toeBackMid2_R/leopard:toeBackMid3_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackMid1_R/leopard:toeBackMid2_R/leopard:toeBackMid3_R/leopard:toeBackMid4_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackRing1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackRing1_R/leopard:toeBackRing2_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackRing1_R/leopard:toeBackRing2_R/leopard:toeBackRing3_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:backRump_R/leopard:backHip_R/leopard:backKnee_R/leopard:backAnkle_R/leopard:backToes_R/leopard:backToesEnd_R/leopard:toeBackRing1_R/leopard:toeBackRing2_R/leopard:toeBackRing3_R/leopard:toeBackRing4_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Pelvis_R/leopard:PelvisJnt1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:cheek1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:cheek1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:cheekUp1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:cheekUp1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_L/leopard:Ear1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_L/leopard:Ear1_L/leopard:Ear2_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_L/leopard:Ear1_L/leopard:Ear2_L/leopard:earPart1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_L/leopard:Ear1_L/leopard:Ear2_L/leopard:earPart3_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_L/leopard:Ear1_L/leopard:Ear2_L/leopard:earPart9_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_L/leopard:Ear1_L/leopard:earPart5_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_L/leopard:Ear1_L/leopard:earPart7_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_R/leopard:Ear1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_R/leopard:Ear1_R/leopard:Ear2_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_R/leopard:Ear1_R/leopard:Ear2_R/leopard:earPart1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_R/leopard:Ear1_R/leopard:Ear2_R/leopard:earPart3_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_R/leopard:Ear1_R/leopard:Ear2_R/leopard:earPart9_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_R/leopard:Ear1_R/leopard:earPart5_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Ear_R/leopard:Ear1_R/leopard:earPart7_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Eye_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Eye_L/leopard:EyeIris_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Eye_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Eye_R/leopard:EyeIris_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyeBrowCenter1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyeBrowIn1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyeBrowIn1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyeBrowMid1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyeBrowMid1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyeBrowOut1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyeBrowOut1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidLower_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidLower_L/leopard:eyelidLoIn1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidLower_L/leopard:eyelidLoMid1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidLower_L/leopard:eyelidLoOut1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidLower_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidLower_R/leopard:eyelidLoIn1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidLower_R/leopard:eyelidLoMid1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidLower_R/leopard:eyelidLoOut1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidUpper_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidUpper_L/leopard:eyelidUpIn1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidUpper_L/leopard:eyelidUpMid1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidUpper_L/leopard:eyelidUpOut1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidUpper_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidUpper_R/leopard:eyelidUpIn1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidUpper_R/leopard:eyelidUpMid1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:eyelidUpper_R/leopard:eyelidUpOut1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:forebrow_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:forebrow_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:Jaw1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:Jaw1_M/leopard:lipLowerIn3_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:Jaw1_M/leopard:lipLowerIn3_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:Jaw1_M/leopard:lipLowerMid1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:Jaw1_M/leopard:lipLowerMid1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:Jaw1_M/leopard:lipLowerOut1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:Jaw1_M/leopard:lipLowerOut1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue4_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue4_M/leopard:tongue5_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue4_M/leopard:tongue5_M/leopard:tongue6_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue4_M/leopard:tongue5_M/leopard:tongue6_M/leopard:tongue7_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue4_M/leopard:tongue5_M/leopard:tongue8_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue4_M/leopard:tongue5_M/leopard:tongue8_L/leopard:tongue9_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue4_M/leopard:tongue5_M/leopard:tongue8_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue4_M/leopard:tongue5_M/leopard:tongue8_R/leopard:tongue9_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue4_M/leopard:tongue10_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue4_M/leopard:tongue10_L/leopard:tongue11_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue4_M/leopard:tongue10_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue4_M/leopard:tongue10_R/leopard:tongue11_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue12_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue12_L/leopard:tongue13_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue12_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue3_M/leopard:tongue12_R/leopard:tongue13_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue14_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue14_L/leopard:tongue15_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue14_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue2_M/leopard:tongue14_R/leopard:tongue15_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue16_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue16_L/leopard:tongue17_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue16_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:Jaw_M/leopard:tongue1_M/leopard:tongue16_R/leopard:tongue17_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:laughLineMid1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:laughLineMid1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:laughLineOut1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:laughLineOut1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M/leopard:laughLineIn1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M/leopard:laughLineIn1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M/leopard:lipUpperCorner1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M/leopard:lipUpperCorner1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M/leopard:lipUpperIn3_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M/leopard:lipUpperIn3_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M/leopard:lipUpperMid1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M/leopard:lipUpperMid1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M/leopard:lipUpperOut1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M/leopard:lipUpperOut1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M/leopard:whisker132_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:muzzleTemp_M/leopard:whisker132_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:nose1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:nose1_M/leopard:nostril1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:Head_M/leopard:muzzle1_M/leopard:nose1_M/leopard:nostril1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:Neck1_M/leopard:neckFatMid1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:Neck_M/leopard:neckFatLo1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontFirst5_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontFirst5_L/leopard:toeFrontFirst4_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontFirst5_L/leopard:toeFrontFirst4_L/leopard:toeFrontFirst3_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontFirst5_L/leopard:toeFrontFirst4_L/leopard:toeFrontFirst3_L/leopard:toeFrontFirst2_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontLast5_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontLast5_L/leopard:toeFrontLast1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontLast5_L/leopard:toeFrontLast1_L/leopard:toeFrontLast2_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontLast5_L/leopard:toeFrontLast1_L/leopard:toeFrontLast2_L/leopard:toeFrontLast3_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontMid5_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontMid5_L/leopard:toeFrontMid4_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontMid5_L/leopard:toeFrontMid4_L/leopard:toeFrontMid3_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontMid5_L/leopard:toeFrontMid4_L/leopard:toeFrontMid3_L/leopard:toeFrontMid2_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontRing5_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontRing5_L/leopard:toeFrontRing4_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontRing5_L/leopard:toeFrontRing4_L/leopard:toeFrontRing3_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:frontAnkle_L/leopard:frontToes_L/leopard:frontToesEnd_L/leopard:toeFrontRing5_L/leopard:toeFrontRing4_L/leopard:toeFrontRing3_L/leopard:toeFrontRing2_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:toeFrontHigh_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:toeFrontHigh_L/leopard:toeFrontHigh1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:frontRump_L/leopard:frontHip_L/leopard:frontKnee_L/leopard:toeFrontHigh_L/leopard:toeFrontHigh1_L/leopard:toeFrontHigh2_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_L/leopard:ScapularAim1_L
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontFirst5_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontFirst5_R/leopard:toeFrontFirst4_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontFirst5_R/leopard:toeFrontFirst4_R/leopard:toeFrontFirst3_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontFirst5_R/leopard:toeFrontFirst4_R/leopard:toeFrontFirst3_R/leopard:toeFrontFirst2_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontLast5_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontLast5_R/leopard:toeFrontLast1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontLast5_R/leopard:toeFrontLast1_R/leopard:toeFrontLast2_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontLast5_R/leopard:toeFrontLast1_R/leopard:toeFrontLast2_R/leopard:toeFrontLast3_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontMid5_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontMid5_R/leopard:toeFrontMid4_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontMid5_R/leopard:toeFrontMid4_R/leopard:toeFrontMid3_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontMid5_R/leopard:toeFrontMid4_R/leopard:toeFrontMid3_R/leopard:toeFrontMid2_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontRing5_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontRing5_R/leopard:toeFrontRing4_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontRing5_R/leopard:toeFrontRing4_R/leopard:toeFrontRing3_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:frontAnkle_R/leopard:frontToes_R/leopard:frontToesEnd_R/leopard:toeFrontRing5_R/leopard:toeFrontRing4_R/leopard:toeFrontRing3_R/leopard:toeFrontRing2_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:toeFrontHigh_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:toeFrontHigh_R/leopard:toeFrontHigh1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:frontRump_R/leopard:frontHip_R/leopard:frontKnee_R/leopard:toeFrontHigh_R/leopard:toeFrontHigh1_R/leopard:toeFrontHigh2_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:Spine3_M/leopard:Chest_M/leopard:ScapularAim_R/leopard:ScapularAim1_R
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Spine1_M/leopard:Spine2_M/leopard:spineFat1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M/leopard:Tail2_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M/leopard:Tail2_M/leopard:Tail2Part1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M/leopard:Tail2_M/leopard:Tail2Part1_M/leopard:Tail2Part2_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M/leopard:Tail2_M/leopard:Tail2Part1_M/leopard:Tail2Part2_M/leopard:Tail3_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M/leopard:Tail2_M/leopard:Tail2Part1_M/leopard:Tail2Part2_M/leopard:Tail3_M/leopard:Tail3Part1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M/leopard:Tail2_M/leopard:Tail2Part1_M/leopard:Tail2Part2_M/leopard:Tail3_M/leopard:Tail3Part1_M/leopard:Tail3Part2_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M/leopard:Tail2_M/leopard:Tail2Part1_M/leopard:Tail2Part2_M/leopard:Tail3_M/leopard:Tail3Part1_M/leopard:Tail3Part2_M/leopard:Tail4_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M/leopard:Tail2_M/leopard:Tail2Part1_M/leopard:Tail2Part2_M/leopard:Tail3_M/leopard:Tail3Part1_M/leopard:Tail3Part2_M/leopard:Tail4_M/leopard:Tail4Part1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M/leopard:Tail2_M/leopard:Tail2Part1_M/leopard:Tail2Part2_M/leopard:Tail3_M/leopard:Tail3Part1_M/leopard:Tail3Part2_M/leopard:Tail4_M/leopard:Tail4Part1_M/leopard:Tail4Part2_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M/leopard:Tail2_M/leopard:Tail2Part1_M/leopard:Tail2Part2_M/leopard:Tail3_M/leopard:Tail3Part1_M/leopard:Tail3Part2_M/leopard:Tail4_M/leopard:Tail4Part1_M/leopard:Tail4Part2_M/leopard:Tail5_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M/leopard:Tail2_M/leopard:Tail2Part1_M/leopard:Tail2Part2_M/leopard:Tail3_M/leopard:Tail3Part1_M/leopard:Tail3Part2_M/leopard:Tail4_M/leopard:Tail4Part1_M/leopard:Tail4Part2_M/leopard:Tail5_M/leopard:Tail5Part1_M
+        weight: 1
+      - path: leopard:Group/leopard:Main/leopard:DeformationSystem/leopard:Root_M/leopard:Tail0_M/leopard:Tail0Part1_M/leopard:Tail0Part2_M/leopard:Tail1_M/leopard:Tail1Part1_M/leopard:Tail1Part2_M/leopard:Tail2_M/leopard:Tail2Part1_M/leopard:Tail2Part2_M/leopard:Tail3_M/leopard:Tail3Part1_M/leopard:Tail3Part2_M/leopard:Tail4_M/leopard:Tail4Part1_M/leopard:Tail4Part2_M/leopard:Tail5_M/leopard:Tail5Part1_M/leopard:Tail5Part2_M
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
